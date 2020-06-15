@@ -14,5 +14,5 @@ return[
     'password_key'      =>"upassword",
 
     //每天发送短信的条数
-    'send_day_num'      =>500
+    'send_day_num'      =>50
 ];
